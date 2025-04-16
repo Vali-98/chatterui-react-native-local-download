@@ -18,7 +18,7 @@ This was not tested on lower Android SDK API's, might not working on Android 9 a
 ## Installation
 
 ```sh
-npm install @chatterui/react-native-local-download
+npm install @vali98/react-native-fs
 ```
 
 ## Usage
