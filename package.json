@@ -1,5 +1,5 @@
 {
-  "name": "@chatterui/react-native-local-download",
+  "name": "@vali98/react-native-fs",
   "version": "0.1.0",
   "description": "Download folder access for react-native",
   "source": "./src/index.tsx",
@@ -57,7 +57,7 @@
   "homepage": "https://github.com/Vali-98/chatterui-react-native-local-download#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
-    "access" : "public"
+    "access": "public"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^19.6.0",

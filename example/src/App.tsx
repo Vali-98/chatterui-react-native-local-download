@@ -1,6 +1,6 @@
 import { Text, View, StyleSheet, TouchableOpacity } from 'react-native'
 
-import { localDownload } from '@chatterui/react-native-local-download'
+import { localDownload } from '@vali98/react-native-fs'
 
 import * as FS from '@dr.pogodin/react-native-fs'
 

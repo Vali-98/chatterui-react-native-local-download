@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "@chatterui/react-native-local-download": ["./src/index"]
+      "@vali98/react-native-fs": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
